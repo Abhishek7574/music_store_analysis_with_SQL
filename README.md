@@ -52,6 +52,9 @@ To guide the analysis, a set of questions has been formulated. These questions a
 ## The repository is organized as follows:
 
 data_set: The main dataset used in the analysis.
+
 Music Store Analysis-Questions.pdf: Document containing the questions to be answered.
+
 music_data_analysis.sql: SQL queries used to address the questions.
-additional_files/: Folder containing any additional files related to the project.
+
+
