@@ -57,4 +57,6 @@ Music Store Analysis-Questions.pdf: Document containing the questions to be answ
 
 music_data_analysis.sql: SQL queries used to address the questions.
 
+schema_diagram.png:Diagram of connections Between the tables
+
 
