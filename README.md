@@ -31,6 +31,9 @@ Classification of music into genres, allowing for genre-specific analysis.
 Information about the artists producing the music.
 The dataset provides a holistic view of the music app company's operations, enabling a comprehensive analysis of employee performance, customer behavior, sales trends, music preferences, and more.
 
+## Schema- Music Store Database
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+
 
 ## Questions to Answer
 To guide the analysis, a set of questions has been formulated. These questions are provided in a PDF document, and the SQL code used to address them is available in the project files.
