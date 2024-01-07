@@ -7,11 +7,11 @@ The dataset comprises the following major entities:
 
 **Employee Details:**
 
-Information about employees working in the music app Store.
+Information about employees working in the music Store.
 
 **Customer Details:**
 
-Details about the customers using the music app.
+Details about the customers coming the music Store.
 
 **Invoice:**
 
