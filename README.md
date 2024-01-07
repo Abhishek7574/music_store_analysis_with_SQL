@@ -8,24 +8,31 @@ The dataset comprises the following major entities:
 **Employee Details:**
 
 Information about employees working in the music app company.
+
 **Customer Details:**
 
 Details about the customers using the music app.
+
 **Invoice:**
 
 Information regarding transactions, including invoice date, total amount, etc.
+
 **Track:**
 
 Details about individual music tracks, including track name, duration, and composer.
+
 **Playlist Track:**
 
 Mapping between playlists and tracks, associating tracks with specific playlists.
+
 **Media Type:**
 
 Different types of media formats, such as MPEG audio file or AAC audio file.
+
 **Genre:**
 
 Classification of music into genres, allowing for genre-specific analysis.
+
 **Artist:**
 
 Information about the artists producing the music.
