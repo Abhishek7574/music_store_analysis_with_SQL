@@ -45,7 +45,7 @@ The dataset provides a holistic view of the music app company's operations, enab
 ## Questions to Answer
 To guide the analysis, a set of questions has been formulated. These questions are provided in a PDF document, and the SQL code used to address them is available in the project files.
 
-Link to Questions PDF
+[Link to Questions PDF](https://github.com/Abhishek7574/sql-start/blob/ccb82706e220f15f3f1abd56b1c716e4e1f748f2/Music%20Store%20Analysis-Questions.pdf)
 Link to SQL Code
 Project Structure
 ## The repository is organized as follows:
