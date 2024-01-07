@@ -1,13 +1,13 @@
 # Music App Data Analysis Project
 ## Overview
-This project involves the analysis of a toy dataset obtained from a music app company. The dataset includes comprehensive details about various aspects of the music industry, covering employee details, customer information, invoices, tracks, playlist tracks, media types, genres, and artists. The goal is to derive insights and answers to specific questions posed in the project.
+This project involves the analysis of a dataset obtained from a music Store. The dataset includes comprehensive details about various aspects of the music industry, covering employee details, customer information, invoices, tracks, playlist tracks, media types, genres, and artists. The goal is to derive insights and answers to specific questions posed in the project.
 
 ## Dataset Details
 The dataset comprises the following major entities:
 
 **Employee Details:**
 
-Information about employees working in the music app company.
+Information about employees working in the music app Store.
 
 **Customer Details:**
 
@@ -36,7 +36,7 @@ Classification of music into genres, allowing for genre-specific analysis.
 **Artist:**
 
 Information about the artists producing the music.
-The dataset provides a holistic view of the music app company's operations, enabling a comprehensive analysis of employee performance, customer behavior, sales trends, music preferences, and more.
+The dataset provides a holistic view of the music Store's operations, enabling a comprehensive analysis of employee performance, customer behavior, sales trends, music preferences, and more.
 
 ## Schema- Music Store Database
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
